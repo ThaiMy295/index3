@@ -183,7 +183,7 @@ header{
 
 .thumbnail-one{
 	width: 100%;
-	height: 850px;
+	height: 1000px;
 /*	background:#f37449;*/
 	position: relative;
 /*	overflow: hidden;*/
@@ -318,7 +318,7 @@ header{
 .image-new{
 	width: 100%;
 /*	background:#cca69a;*/
-	height: 200px;
+	height: 250px;
 	justify-content: center;
 /*	overflow: hidden;*/
 }
